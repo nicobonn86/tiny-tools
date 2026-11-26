@@ -6,3 +6,4 @@ body {
   margin: 0;
   font-family: system-ui, sans-serif;
 }
+.container { max-width: 720px; margin: 0 auto; padding: 1.5rem; }
